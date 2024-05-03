@@ -38,6 +38,9 @@
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)](https://www.selenium.dev/)
 [![RestAssured](https://img.shields.io/badge/-RestAssured-000000?style=flat)](http://rest-assured.io/)
 [![TestNG](https://img.shields.io/badge/-TestNG-007ACC?style=flat&logo=testng)](https://testng.org/doc/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)](https://www.java.com/)
+[![Cucumber](https://img.shields.io/badge/-Cucumber-23CC71?style=flat&logo=cucumber)](https://cucumber.io/)
+[![OOP](https://img.shields.io/badge/-OOP-239120?style=flat)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 
 
