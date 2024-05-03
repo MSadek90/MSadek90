@@ -15,9 +15,9 @@
 </p>
 
 
-- 🏢 I'm a Software Tester 
+- 🏢 I'm a Software Tester. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Manual testing, Agile Methodology, and API Testing(Manual & automation), Automation testing.
+- 💬 Ask me about my experience with Manual testing, Agile Methodologies, and API Testing(Manual & automation), Automation testing.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
