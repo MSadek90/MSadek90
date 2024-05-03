@@ -5,19 +5,12 @@
   Welcome to Mahmoud Sadek's profile!
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<br>
 
 
-<p>
-
-  
-</p>
-
-
-- 🏢 I'm a Software Tester. 
+- 🏢 I'm a Software Tester seeking a new job as a junior QC. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Manual testing, Agile Methodologies, and API Testing(Manual & automation), Automation testing.
+- 💬 My experience includes manual testing, agile methodologies, API testing (manual & automation), and automation testing.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
