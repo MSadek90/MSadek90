@@ -25,9 +25,7 @@
 ### Connect with Me :
 
 <a href="[https://www.linkedin.com/in/mahmoud-sadek-677ab02b8/](https://www.linkedin.com/in/mahmoud-sadek-677ab02b8/)" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
-<a href="[https://www.facebook.com/mhmood002//](https://www.facebook.com/mhmood002/)" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.facebook.com/mhmood002//](https://www.facebook.com/mhmood002/)" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
