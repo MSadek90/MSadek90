@@ -8,7 +8,7 @@
 <br>
 
 
-- 🏢 I'm a Software Tester seeking a new job as a junior QC. 
+- 🏢 I'm a Software Test Engineer @codecloders company as a fresh QC. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 My experience includes manual testing, agile methodologies, API testing (manual & automation), and automation testing.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
