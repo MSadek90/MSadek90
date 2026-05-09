@@ -8,10 +8,10 @@
 <br>
 
 
-- 🏢  @neop as a junior Quality Control Engineer. 
+- 🏢  @neop as a mid SW Quality Engineer. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 My experience includes manual testing, agile methodologies, API testing (manual & automation), and automation testing.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
 
 
