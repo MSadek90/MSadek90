@@ -7,7 +7,9 @@
 
 <br>
 
-
+👤 About Me
+- 🎓 B.Sc. in Mechatronics Engineering | Class of 2023.
+- 🎂 26 years old.
 - 🏢  @neop as a mid SW Quality Engineer. 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 My experience includes manual testing, agile methodologies, API testing (manual & automation), and automation testing.
@@ -17,11 +19,11 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mahmoud-sadek-677ab02b8/" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-sadek-677ab02b8/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.facebook.com/mhmood002/" target="_blank">
+<a href="https://www.facebook.com/mhmood002/">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
 </a>
 
