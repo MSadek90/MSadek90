@@ -6,8 +6,10 @@
 </h3>
 
 <br>
+<br>
 
-👤 About Me
+## About Me
+
 - 🎓 B.Sc. in Mechatronics Engineering | Class of 2023.
 - 🎂 26 years old.
 - 🏢  @neop as a mid SW Quality Engineer. 
